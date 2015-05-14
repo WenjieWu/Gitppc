@@ -1,0 +1,143 @@
+/*CSS reset settings here*/
+
+
+.container{
+ width: 970px;
+ height: 1000px;
+ outline: solid;
+ padding:20px;
+ 
+}
+
+.header{
+  height:100px;
+   width: 970px;
+ 
+}
+.headerlogoleft{
+  margin-right: 300px;
+  display: inline-block;
+  vertical-align: top;
+}
+.headerlogoright{
+  display: inline-block;
+  vertical-align: top;
+  
+}
+
+.splash{
+  /*margin: 50px; */
+  height:450px;
+ 
+  display: block;
+  margin-top: 20px;
+}
+ul{
+  background-color: grey;
+  height: 50px;
+  display: inline-block;
+  width: 930px;
+}
+ul li{
+  border: 1px solid white;
+  display: inline-block;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.splash img{
+display: inline-block;
+margin-left: 30px;
+margin-top: 70px;
+vertical-align: top;
+border: 3px solid white;
+
+}
+.content_right{
+  display: inline-block;
+  width: 450px;
+  height: 270px;
+  vertical-align: top;
+  margin-left: 50px;
+  font-size: 14px;
+color:white;
+margin-top: 20px;
+}
+.noora{
+  background-color: black;
+  color:white;
+
+  margin-left: 0px;
+}
+.pic{
+  background-color: blue;
+  width: 400px;
+  height: 250px;
+}
+
+.smalllogo{
+  width: 970px;
+  height: 150px;
+  margin-top: -40px;
+}
+.smalllogo img{
+  display: inline-block;
+  width: 100px;
+  vertical-align: middle;
+}
+.aftersmalllogo{
+  display: inline-block;
+  color: yellow;
+  font-size: 12px;
+  vertical-align: middle;
+  margin-left: 10px;
+  margin-top: 90px;
+}
+.main{
+
+  width: 970px;
+  height: 900px;
+}
+
+.fourparts{
+  height:430px;
+  width: 970px;
+ 
+  margin-top: -30px;
+  background-color: black;
+}
+h4{
+  font-weight: 2px;
+  background-color: orange;
+  padding:10px;
+}
+.part{
+display: inline-block;
+width: 220px;
+height: 350px;
+
+vertical-align: top;
+margin-top: 20px;
+background-color: white;
+margin:5px;
+}
+
+.fourparts img{
+  width: 200px;
+  margin-left: 15px;
+
+
+}
+.part p{
+
+  width:150px;
+  margin: 30px;
+  margin-right: 50px;
+
+}
+.part button{
+background-color: orange;
+border: 2px solid black;
+margin-left: 160px;
+margin-bottom: 20px;
+}
